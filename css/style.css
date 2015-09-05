@@ -1,0 +1,5 @@
+@media(min-width: 768px){ 	.modal-dialog { width: 300px; } }
+body, .form-control { background: url( ../images/bg.jpg); }
+.modal-content { box-shadow: none; border-radius: 0; }
+.modal-content .lenged .lenged-content { position: relative; top: -2px; left: 15px; padding: 5px; }
+.modal-content .lenged .lenged-content:after { position: absolute; content: ""; left: -5px; top: 0; border-style: solid; border-color: transparent #aaa; border-width: 5px 5px 0 0; }
